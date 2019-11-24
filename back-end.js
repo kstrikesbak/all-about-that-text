@@ -12,6 +12,8 @@ const nasafy = function(num) {
 
 }
 
+
+
 const reversify = function(str) {
     let newStr = ''
     for (let i = str.length-1 ; i>-1; i--) {
@@ -55,10 +57,10 @@ const crazify = function(str) {
 }
 
 
-module.exports = {
-    biggify,
-    nasafy,
-    reversify,
-    titleify,
-    crazify,
-}
+// module.exports = {
+//     biggify,
+//     nasafy,
+//     reversify,
+//     titleify,
+//     crazify,
+// }

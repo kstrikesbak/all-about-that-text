@@ -5,3 +5,11 @@
 .btn {
   margin-top: 5px;
 }
+
+ul li {
+  list-style: none;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 50px;
+  color: red;
+
+}
